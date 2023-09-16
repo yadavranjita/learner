@@ -1,0 +1,25 @@
+.aboutUs2 button{
+    color: black;
+    background-color: white;
+}
+.aboutUs2 button:hover{
+   background-color: #007bff;
+   color: white;
+}
+.project1 ul li a{
+    color: white;
+    opacity: 0.4;
+}
+.project1 ul li a:hover{
+    color: white;
+    opacity: 1;
+}
+.contact1 a{
+    color: white;
+    opacity: 0.4;
+}
+.contact1 a:hover{
+    color: white;
+    opacity: 1;
+}
+
